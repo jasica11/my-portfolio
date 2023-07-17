@@ -29,7 +29,9 @@ const Projects = () =>{
     {
       id:3,
       src:portfolio,
-      tag: "This is the current page which is created with React and Tailwind CSS "
+      live: "https://jasica-portfolio.netlify.app/",
+      link:"https://github.com/jasica11/my-portfolio",
+      tag: "This is the current page which is created with React and Tailwind CSS ",
     }
   ]
   
