@@ -1,7 +1,7 @@
 import React from 'react'
 import mapty from "../assets/mapty.png"
 import youtube from "../assets/youtube.jpg"
-import portfolio from "../assets/portfolio.pdf";
+import portfolio from "../assets/portfolio.jpg";
  
 import {BsArrowUpRightSquare, BsGithub} from "react-icons/bs";
 import { CiMenuKebab } from "react-icons/ci";

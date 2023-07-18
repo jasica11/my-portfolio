@@ -20,7 +20,7 @@ const About = () => {
               
 
 
-              <a href="/pathways.pdf" target= "_blank" rel="noreferrer" download className='hover:scale-105 duration-300' >
+              <a href="/resume.pdf" target= "_blank" rel="noreferrer" download className='hover:scale-105 duration-300' >
               <button className="group text-white font-bold w-fill px-6 py-3 ml-6 mt-5 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
                Resume 
 
